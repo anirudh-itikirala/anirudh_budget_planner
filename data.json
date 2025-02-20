@@ -1,0 +1,27 @@
+{
+    "weekly_outings": [
+        2,
+        1,
+        2,
+        2
+    ],
+    "weekly_spending": [
+        16.35,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "charges": [
+        [
+            {
+                "name": "Chipotle",
+                "amount": 16.35,
+                "date": "2024-12-04"
+            }
+        ],
+        [],
+        [],
+        []
+    ],
+    "monthly_budget": 300.0
+}
